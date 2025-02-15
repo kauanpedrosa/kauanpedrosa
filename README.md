@@ -19,7 +19,7 @@ na faculdade Impacta e estou comprometido com o desenvolvimento profissional, en
 
 #
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 <img 
