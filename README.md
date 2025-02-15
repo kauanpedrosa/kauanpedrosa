@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🏄‍♂️ Kauan Pedrosa M. Da Silva
 
-<!--
-**kauanpedrosa/kauanpedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Web Developer and Front-End Developer`**
 
-Here are some ideas to get you started:
+Meu nome é Kauan e tenho 19 anos e sou de São Paulo. Meu Ensino Médio foi concluido em 2023 na ETEC com o curso de eletrônica. Atualmente estou cursando Analise e Desenvolvimento de Sistemas
+na faculdade Impacta e estou comprometido com o desenvolvimento profissional, encaro desafios como oportunidades para ampliar meus conhecimentos e aprimorar minhas habilidades. Tenho um forte interesse por tecnologia e inovação, e meu objetivo é construir uma trajetória de sucesso por meio da dedicação e evolução constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
+
+### 📊 Estatísticas
+
+<p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpedrosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+#
