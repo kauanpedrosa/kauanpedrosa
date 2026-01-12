@@ -2,7 +2,7 @@
 
 **`Web Developer and Front-End Developer`**
 
-Meu nome é Kauan e tenho 19 anos e sou de São Paulo. Meu Ensino Médio foi concluido em 2023 na ETEC com o curso de eletrônica. Atualmente estou cursando Analise e Desenvolvimento de Sistemas
+Meu nome é Kauan e tenho 20 anos e sou de São Paulo. Meu Ensino Médio foi concluido em 2023 na ETEC com o curso de eletrônica. Atualmente estou cursando Analise e Desenvolvimento de Sistemas
 na faculdade Impacta e estou comprometido com o desenvolvimento profissional, encaro desafios como oportunidades para ampliar meus conhecimentos e aprimorar minhas habilidades. Tenho um forte interesse por tecnologia e inovação, e meu objetivo é construir uma trajetória de sucesso por meio da dedicação e evolução constante.
 
 ---
